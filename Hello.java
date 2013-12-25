@@ -1,6 +1,8 @@
 public class Hello {
   public static void main(String[] args) {
-    System.out.println("Hello World!") [
+    Cat c1 = new Cat();
+    c1.dispMessage();
+    System.out.println("Hello World!");
   }
 }
 
