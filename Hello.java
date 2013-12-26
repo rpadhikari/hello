@@ -4,6 +4,8 @@ public class Hello {
     c1.dispMessage();
     int b = c1.add(3, 4);
     System.out.println(b);
+    System.out.println(b*2);
+    System.out.println(b*4);
   }
 }
 
